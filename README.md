@@ -14,9 +14,6 @@
 <div align="center">
 
 
-<a class="affiliate-banner" href="https://url-shortener.curseforge.com/RVj8e" target="_blank" rel="noopener noreferrer" style="background-image: url(&quot;/affiliate-banner-bg.webp&quot;);"><div class="title-line">ProjT by Cikolatary</div><div class="subtitle-line">Create a server, get 25% off your first month<img alt="affiliate logo" src="/bisect-icon.webp"></div><div class="fake-button">Create Server</div><img class="fg" alt="affiliate banner image" src="/affiliate-banner-fg.webp"></a>
-
-
 ## Installation 
 ### 👁️‍🗨️ My Hyprland install Scripts 👁️‍🗨️
 - Automated installation application.

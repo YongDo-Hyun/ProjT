@@ -19,16 +19,6 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Hyprland-Dots?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/9JEgZsfhex"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%9JEgZsfhex"> </a>
-
-<br/>
-</div>
-
-<h3 align="center">
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-	KooL's Hyprland Dotfiles Showcase 
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-</h3>
 
 <a class="affiliate-banner" href="https://url-shortener.curseforge.com/RVj8e" target="_blank" rel="noopener noreferrer" style="background-image: url(&quot;/affiliate-banner-bg.webp&quot;);"><div class="title-line">ProjT by Cikolatary</div><div class="subtitle-line">Create a server, get 25% off your first month<img alt="affiliate logo" src="/bisect-icon.webp"></div><div class="fake-button">Create Server</div><img class="fg" alt="affiliate banner image" src="/affiliate-banner-fg.webp"></a>
 

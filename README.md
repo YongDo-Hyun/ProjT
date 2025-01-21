@@ -21,11 +21,6 @@
 ### 👁️‍🗨️ My Hyprland install Scripts 👁️‍🗨️
 - Automated installation application.
 
-### 🪧 Attention 🪧
-- This repo does NOT contain or will NOT install any packages. These are only pre-configured-hyprland configs or dotfiles
-- refer to install scripts what packages needed to install... but atleast, Hyprland packages is needed 😏😏😏 duh!!
-- This repo will be pulled by the Distro-Hyprland install scripts above if you opt to download pre-configured dots
-
 ### 👀 Gallery 👀
 - All photos are collected here [Screenshots](https://www.curseforge.com/minecraft/modpacks/projt/gallery)
 

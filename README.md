@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
 </p>
 
+<h3>ProjT by Cikolatary</h3>
+
 <div align="center">
 <br>
   <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
@@ -15,7 +17,7 @@
 
 
 ## Installation 
-### 👁️‍🗨️ My Hyprland install Scripts 👁️‍🗨️
+### 👁️‍🗨️ Curseforge 👁️‍🗨️
 - Automated installation application.
 
 ### 👀 Gallery 👀

@@ -1,6 +1,6 @@
-<h4 align="center">
+<h5 align="center">
 <img align="center" width="80%" src=https://github.com/Sameda1290/ProjT/blob/main/ProjT1.png />
-</h4>
+</h5>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />

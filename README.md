@@ -1,5 +1,5 @@
 <h3 align="center">
-<img align="center" width="80%" src=https://github.com/sameda1290/projt/ProjT1.png />
+<img align="center" width="80%" src=https://github.com/Sameda1290/ProjT/blob/main/ProjT1.png />
 </h3>
 
 <p align="center">

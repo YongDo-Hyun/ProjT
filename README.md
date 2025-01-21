@@ -21,7 +21,7 @@
 - Automated installation application.
 
 ### 👀 Gallery 👀
-- All photos are collected here [Screenshots](https://www.curseforge.com/minecraft/modpacks/projt/gallery)
+- All photos are collected here [Photos](https://www.curseforge.com/minecraft/modpacks/projt/gallery)
 
 ### 📦 Whats new?
 - To easily track changes, I will be updating the [CHANGELOGS](https://www.curseforge.com/minecraft/modpacks/projt)  Screenshots will be included if worth mentioning the changes!

@@ -30,7 +30,7 @@
 	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
-<a class="affiliate-banner" href="https://url-shortener.curseforge.com/RVj8e" target="_blank" rel="noopener noreferrer" style="background-image: url(https://curseforge.com/images/affiliate-banner/affiliate-banner-bg.webp);"><div class="title-line">ProjT by Cikolatary</div><div class="subtitle-line">Create a server, get 25% off your first month<img alt="affiliate logo" src="https://curseforge.com/images/affiliate-banner/bisect-icon.webp"></div><div class="fake-button">Create Server</div><img class="fg" alt="affiliate banner image" src="https://curseforge.com/images/affiliate-banner/affiliate-banner-fg.webp"></a>
+<a class="affiliate-banner" href="https://url-shortener.curseforge.com/RVj8e" target="_blank" rel="noopener noreferrer" style="background-image: url(&quot;/images/affiliate-banner/affiliate-banner-bg.webp&quot;);"><div class="title-line">ProjT by Cikolatary</div><div class="subtitle-line">Create a server, get 25% off your first month<img alt="affiliate logo" src="/images/affiliate-banner/bisect-icon.webp"></div><div class="fake-button">Create Server</div><img class="fg" alt="affiliate banner image" src="/images/affiliate-banner/affiliate-banner-fg.webp"></a>
 
 
 ## Installation 
